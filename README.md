@@ -12,6 +12,8 @@ Gosto de transformar problemas em soluções através da programação e vejo ca
 
 Atualmente estudo e desenvolvo projetos buscando evoluir minhas habilidades técnicas, criando aplicações funcionais, intuitivas e bem estruturadas.
 
+Atualmente, também venho ampliando meus conhecimentos na área de Segurança da Informação e conquistei o certificado Safety & Security (DL-00-D02).
+
 Acredito que a prática é uma das melhores formas de aprender, por isso estou constantemente desenvolvendo projetos e explorando novas tecnologias.
 
 ---
@@ -57,6 +59,11 @@ Acredito que a prática é uma das melhores formas de aprender, por isso estou c
 * APIs
 * Banco de Dados
 * Versionamento de código com Git
+* Fundamentos de Segurança da Informação
+
+### 🔐 Segurança
+
+Certificado: Safety & Security (DL-00-D02)
 
 ### 🌎 Idiomas
 
